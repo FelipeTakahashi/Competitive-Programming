@@ -5,8 +5,8 @@ int main() {
 
     int a, b;
 
-        cin >> a;
-        cin >> b;
+        cin  >> a;
+        cin  >> b;
         cout << "SOMA = " << a+b << "\n";
 
     return 0;
